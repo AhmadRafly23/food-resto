@@ -34,7 +34,7 @@ function App() {
       <Navbar />
       <div
         className="px-5 pb-5"
-        style={{ backgroundColor: "#f0f2f5", height: "100vh" }}
+        style={{ backgroundColor: "#f0f2f5", height: "100%" }}
       >
         <div className="row pt-2 px-3">
           <ListCategories

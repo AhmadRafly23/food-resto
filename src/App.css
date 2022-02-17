@@ -5,6 +5,9 @@
   font-family: "Open Sans", sans-serif;
   list-style: none;
 }
+.navbar {
+  background-color: white !important;
+}
 
 .nav-link {
   color: #acaaaa !important;
